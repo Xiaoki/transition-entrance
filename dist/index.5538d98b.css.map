@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["dev/Happyship/transition-entrance/style.css"],"sourcesContent":["body {\r\n    margin: 0;\r\n    width: 100vw;\r\n    height: 100vh;\r\n}\r\n\r\n#wrapper {\r\n    overflow: hidden;\r\n    width: 100%;\r\n    height: 100%;\r\n}"],"names":[],"version":3,"file":"index.5538d98b.css.map","sourceRoot":"/__parcel_source_root/"}
